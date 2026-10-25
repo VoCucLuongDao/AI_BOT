@@ -1,0 +1,9 @@
+dependencies:
+  idf: '>=4.4.2'
+description: esp_lcd driver for ILI9488 displays
+repository: git://github.com/atanisoft/esp_lcd_ili9488.git
+repository_info:
+  commit_sha: a0574bac8e3ba0bd90751d98cfe2615b1dc5e800
+  path: .
+url: https://github.com/atanisoft/esp_lcd_ili9488
+version: 1.1.1

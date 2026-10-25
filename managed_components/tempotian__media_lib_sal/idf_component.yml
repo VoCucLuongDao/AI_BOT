@@ -1,0 +1,10 @@
+description: Media Library System Abstract layer
+documentation: https://github.com/espressif/esp-webrtc-solution/tree/main/components/media_lib_sal/README.md
+issues: https://github.com/espressif/esp-webrtc-solution/issues
+tags:
+- Multimedia
+- OSLibrary
+- System
+- Network
+url: https://github.com/espressif/esp-webrtc-solution/tree/main/components/media_lib_sal
+version: 0.9.1
